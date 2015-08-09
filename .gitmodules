@@ -30,7 +30,7 @@
 	url = https://github.com/opscode-cookbooks/homebrew.git
 [submodule "cookbooks/mono4-coobook"]
 	path = cookbooks/mono4-coobook
-	url = https://github.com/stonevil/mono4-coobook.git
+	url = https://github.com/shirhatti/mono4-coobook.git
 [submodule "cookbooks/yum"]
 	path = cookbooks/yum
 	url = https://github.com/chef-cookbooks/yum.git
