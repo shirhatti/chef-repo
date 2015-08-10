@@ -34,3 +34,6 @@
 [submodule "cookbooks/yum"]
 	path = cookbooks/yum
 	url = https://github.com/chef-cookbooks/yum.git
+[submodule "cookbooks/libuv"]
+	path = cookbooks/libuv
+	url = https://github.com/shirhatti/libuv.git
