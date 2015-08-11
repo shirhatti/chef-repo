@@ -16,9 +16,6 @@
 [submodule "cookbooks/apt"]
 	path = cookbooks/apt
 	url = https://github.com/opscode-cookbooks/apt.git
-[submodule "cookbooks/nodejs"]
-	path = cookbooks/nodejs
-	url = https://github.com/redguide/nodejs.git
 [submodule "cookbooks/ark"]
 	path = cookbooks/ark
 	url = https://github.com/burtlo/ark.git
@@ -37,3 +34,6 @@
 [submodule "cookbooks/libuv"]
 	path = cookbooks/libuv
 	url = https://github.com/shirhatti/libuv.git
+[submodule "cookbooks/chef-nodejs"]
+	path = cookbooks/chef-nodejs
+	url = https://github.com/phlipper/chef-nodejs.git
